@@ -1,4 +1,5 @@
 import random
+
 # Preguntas para el juego
 questions = ["¿Qué función se usa para obtener la longitud de una cadena en Python?", "¿Cuál de las siguientes opciones es un número entero en Python?", "¿Cómo se solicita entrada del usuario en Python?","¿Cuál de las siguientes expresiones es un comentario válido en Python?","¿Cuál es el operador de comparación para verificar si dos valores son iguales?",]
 
