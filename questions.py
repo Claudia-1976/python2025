@@ -34,3 +34,4 @@ for intento in range(2):
 
     # Se imprime un blanco al final de la pregunta
     print()
+
