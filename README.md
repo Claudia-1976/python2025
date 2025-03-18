@@ -17,6 +17,13 @@ El puntaje final será el resultante de sumar un punto por cada respuesta correc
 ### list
     Convierte una tupla en una lista.
 ### random.choices(seq, k=n)
-    Seleccion n elementos aleatorios de una lista
+    Selecciona n elementos aleatorios de una lista
 
 Modificat el juego para, en lo posible, no acceder a las 3 listas usando índices.
+
+
+## Punto 4:
+### random.sample(seq,n)
+    Selecciona n elementos aleatorios de una secuencia sin repeticion
+
+Modificar el juego para no mostrar preguntas repetidas.
